@@ -1,1 +1,1 @@
-{"name":"sakala-pro","main":"worker/index.ts","compatibility_date":"2026-10-05","assets":{"directory":"./dist","binding":"ASSETS"},"d1_databases":[{"binding":"DB","database_name":"sakala-pro-db","database_id":"REPLACE_WITH_CLOUDFLARE_D1_ID","migrations_dir":"db/migrations"}]}
+{"name":"sakala-pro","main":"worker/index.ts","compatibility_date":"2026-10-05","assets":{"directory":"./dist","binding":"ASSETS"},"d1_databases":[{"binding":"DB","database_name":"sakala-pro-db","database_id":"82cbbf3cab9602158e573be134565184","migrations_dir":"db/migrations"}]}
