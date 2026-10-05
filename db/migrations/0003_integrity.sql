@@ -1,0 +1,1 @@
+create unique index if not exists ux_active_year on schedule_versions(academic_year_id) where status='active';create unique index if not exists ux_room_slot_version on schedule_entries(schedule_version_id,room_name,slot_id);create index if not exists ix_versions_year on schedule_versions(academic_year_id,created_at);
